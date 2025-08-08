@@ -1,0 +1,50 @@
+Senior Full Stack Developer
+
+Company: Tech Innovations Inc.
+Location: Remote (US-based)
+
+About Us:
+Tech Innovations Inc. is a leading software development company specializing in creating cutting-edge web and mobile applications for businesses across various industries. We are looking for a talented Senior Full Stack Developer to join our growing team.
+
+Job Description:
+We are seeking an experienced Senior Full Stack Developer to design, develop, and maintain web applications. The ideal candidate will have strong expertise in both frontend and backend technologies, with a focus on JavaScript frameworks.
+
+Responsibilities:
+- Design, develop, and maintain web applications using React.js and Node.js
+- Write clean, maintainable, and efficient code
+- Collaborate with cross-functional teams to define, design, and ship new features
+- Implement responsive design and ensure cross-browser compatibility
+- Optimize applications for maximum speed and scalability
+- Participate in code reviews and mentor junior developers
+- Troubleshoot and debug applications
+- Stay up-to-date with emerging trends and technologies
+
+Requirements:
+- 5+ years of experience in full-stack web development
+- Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model
+- Experience with React.js and Node.js
+- Familiarity with RESTful APIs and microservices architecture
+- Knowledge of modern authorization mechanisms, such as JSON Web Token
+- Experience with database systems like MongoDB, PostgreSQL, or MySQL
+- Understanding of server-side templating languages
+- Proficient understanding of code versioning tools, such as Git
+- Experience with automated testing platforms and unit tests
+- Familiarity with continuous integration and deployment (CI/CD) pipelines
+
+Nice to Have:
+- Experience with TypeScript
+- Knowledge of AWS or other cloud platforms
+- Experience with Docker and Kubernetes
+- Understanding of Agile development methodologies
+- Experience with Python or Java
+
+Benefits:
+- Competitive salary
+- Health, dental, and vision insurance
+- 401(k) matching
+- Flexible work hours
+- Remote work options
+- Professional development opportunities
+- Paid time off
+
+Tech Innovations Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
