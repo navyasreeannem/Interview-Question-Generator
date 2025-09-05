@@ -1,0 +1,13 @@
+{
+  "name": "ai-interviewer",
+  "version": "1.0.0",
+  "description": "AI Interviewer project (Flask Python)",
+  "scripts": {
+    "start": "python app.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navyasreeannem/Interview-Question-Generator.git"
+  },
+  "license": "ISC"
+}
